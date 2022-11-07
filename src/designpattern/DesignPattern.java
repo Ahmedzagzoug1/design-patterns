@@ -23,7 +23,7 @@ public class DesignPattern {
     public static void runObserver(){
         Student s1=new Student("Ahmed");
         Student s2=new Student("Ali");
-        Student s3=new Student("Khaled");
+        Student s3=new Student("Hossam");
         Student s4=new Student("Ebrahim");
         Student s5=new Student("Mohmmed");
         
